@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Alyra3/static/css/main.6c554a89.chunk.css",
+    "main.js": "/Alyra3/static/js/main.88655840.chunk.js",
+    "main.js.map": "/Alyra3/static/js/main.88655840.chunk.js.map",
+    "runtime-main.js": "/Alyra3/static/js/runtime-main.06407f1a.js",
+    "runtime-main.js.map": "/Alyra3/static/js/runtime-main.06407f1a.js.map",
+    "static/css/2.c7d41ee2.chunk.css": "/Alyra3/static/css/2.c7d41ee2.chunk.css",
+    "static/js/2.bc6ea92e.chunk.js": "/Alyra3/static/js/2.bc6ea92e.chunk.js",
+    "static/js/2.bc6ea92e.chunk.js.map": "/Alyra3/static/js/2.bc6ea92e.chunk.js.map",
+    "index.html": "/Alyra3/index.html",
+    "precache-manifest.2fa781e5017593b1b4a6ba1eb65fe4f8.js": "/Alyra3/precache-manifest.2fa781e5017593b1b4a6ba1eb65fe4f8.js",
+    "service-worker.js": "/Alyra3/service-worker.js",
+    "static/css/2.c7d41ee2.chunk.css.map": "/Alyra3/static/css/2.c7d41ee2.chunk.css.map",
+    "static/css/main.6c554a89.chunk.css.map": "/Alyra3/static/css/main.6c554a89.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06407f1a.js",
+    "static/css/2.c7d41ee2.chunk.css",
+    "static/js/2.bc6ea92e.chunk.js",
+    "static/css/main.6c554a89.chunk.css",
+    "static/js/main.88655840.chunk.js"
+  ]
+}
